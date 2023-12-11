@@ -11,3 +11,14 @@ their digital display and printing shall be permissible. Others may publish
 such maps that adhere to these standards.
 ```
 Do consider this when wondering about whether the boundary data is usable or not. 
+
+Data available in the repository:
+* [States](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/states)
+* [Districts](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/districts)
+* [SubDistricts](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/subdistricts)
+* [Blocks](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/blocks)
+* [Panchayats](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/panchayats)
+* [Villages](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/villages)
+* [Habitations](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/habitations)
+* [Forests](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/forests)
+* [Census 2011 Admin Boundaries](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/census-2011) 
