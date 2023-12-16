@@ -23,3 +23,5 @@ Data available in the repository:
 * [Forests](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/forests)
 * [Constituencies](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/constituencies)
 * [Census 2011 Admin Boundaries](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/census-2011) 
+
+The tileset deployment code is at [indianopenmaps](https://github.com/ramSeraph/indianopenmaps)
