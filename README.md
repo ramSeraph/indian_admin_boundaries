@@ -21,6 +21,7 @@ Data available in the repository:
 * [Villages](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/villages)
 * [Habitations](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/habitations)
 * [Forests](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/forests)
+* [Postal](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/postal)
 * [Constituencies](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/constituencies)
 * [Census 2011 Admin Boundaries](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/census-2011) 
 
