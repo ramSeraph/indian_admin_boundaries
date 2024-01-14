@@ -20,6 +20,7 @@ Data available in the repository:
 * [Panchayats](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/panchayats)
 * [Villages](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/villages)
 * [Habitations](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/habitations)
+* [Urban](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/urban)
 * [Forests](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/forests)
 * [Postal](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/postal)
 * [Constituencies](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/constituencies)
