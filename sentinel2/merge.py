@@ -70,6 +70,18 @@ for s in edges:
 
 print(f'{len(to_consider)=}')
 
+def idx_to_consider_gen(to_consider):
+    i = 0
+    print('generating to_consider_index')
+    for fid, s in to_consider.items():
+        yield (fid, s.bounds, fid)
+        i += 1
+        if i % 10000 == 0:
+            print(f'done with {i} entries')
+
+
+to_consider_idx = index.Index(idx_to_consider_gen(to_consider))
+
 print('collecting overlaps')
 overlaps = {}
 to_merge_geoms = {}
@@ -81,7 +93,7 @@ for fid, s in to_consider.items():
 
     #print(f'handling {fid=}')
     #idx_features = [n.object for n in idx.intersection(s.bounds, objects=True)]
-    intersecting_ids = list(idx.intersection(s.bounds, objects='raw'))
+    intersecting_ids = list(to_consider_idx.intersection(s.bounds, objects='raw'))
     #print(f'{intersecting_ids=}')
     for idx_fid in intersecting_ids:
         if idx_fid == fid:
@@ -125,7 +137,6 @@ with open('data/merged.geojsonl', 'w') as of:
     for g in dissolved.geoms:
         i += 1
         count += 1
-        print(f'saving {i}th item')
         feat = {"type": "Feature", "geometry": mapping(g), "properties": {"id": i}}
         of.write(json.dumps(feat))
         of.write('\n')
