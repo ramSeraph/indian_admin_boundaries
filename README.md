@@ -23,6 +23,7 @@ Data available in the repository:
 * [Urban](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/urban)
 * [Forests](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/forests)
 * [Postal](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/postal)
+* [Police](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/police)
 * [Constituencies](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/constituencies)
 * [Census 2011 Admin Boundaries](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/census-2011) 
 
