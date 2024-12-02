@@ -22,6 +22,7 @@ Data available in the repository:
 * [Habitations](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/habitations)
 * [Urban](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/urban)
 * [Forests](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/forests)
+* [Coastal Regulation](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/coastal)
 * [Postal](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/postal)
 * [Police](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/police)
 * [Constituencies](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/constituencies)
