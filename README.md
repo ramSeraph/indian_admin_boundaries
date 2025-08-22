@@ -26,6 +26,7 @@ Data available in the repository:
 * [Postal](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/postal)
 * [Police](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/police)
 * [Constituencies](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/constituencies)
-* [Census 2011 Admin Boundaries](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/census-2011) 
+* [Census 2011 Admin Boundaries](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/census-2011)
+* [Historical District Boundaries](https://github.com/ramSeraph/indian_admin_boundaries/releases/tag/historical)
 
 The tileset deployment code is at [indianopenmaps](https://github.com/ramSeraph/indianopenmaps)
